@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="akakom.sintadevipuspitasari193310020.accelerometer">
+    package="utdi.anisadwinugraheni.accelerometer">
     <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true" />
 
     <application
